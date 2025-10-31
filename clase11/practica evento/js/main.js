@@ -78,7 +78,5 @@ window.addEventListener('load', function() {
     })
     console.log(click)
     let boton = document.querySelector('.boton');
-    boton.addEventListener('click', function(){
-        if ()
-    })
+    
 });

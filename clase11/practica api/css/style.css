@@ -1,0 +1,17 @@
+
+img{
+    width: 320px;
+    height: 320px;
+}
+.characterList{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.characterList article{
+    border: black 0.5px solid;
+    padding: 5px;
+    margin-bottom: 10px;
+}
